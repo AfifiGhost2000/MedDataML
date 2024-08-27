@@ -46,7 +46,6 @@ pip install -r requirements.txt
 - tabular/: Code and resources for tabular medical data classification.
 - image/: Code and resources for medical image classification.
 - models/: Custom models and architectures used in the project.
-- data/: Placeholder directory for datasets (not included in the repo).
 - results/: Directory to store results from experiments.
 
 ## Model Training and Evaluation
