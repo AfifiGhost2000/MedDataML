@@ -53,7 +53,7 @@ pip install -r requirements.txt
 The models are trained using the train_model function, which includes both training and validation processes. The evaluation is done using a custom test_model function that provides detailed classification reports.
 
 ## Hyperparameter Optimization
-Optuna is used for hyperparameter optimization. The `objective` function in `optuna_optimization.py` is designed to maximize the F1 scores for different class labels.
+Optuna is used for hyperparameter optimization. The `objective` function in the image folder's `main.ipynb` is designed to maximize the F1 scores for different class labels.
 
 ## Results 
 
